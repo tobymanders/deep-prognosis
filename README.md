@@ -1,7 +1,7 @@
 [**RESUME**](https://drive.google.com/file/d/1y6ybjs9NzaTmZgjDp3dVEXZNNiKSoQBQ/view?usp=sharing)  |  [**LINKEDIN**](www.linkedin.com/in/tobymanders)
 
 # ICU Mortality Predictor
-by Toby Manders
+Project by Toby Manders
 
 Mortality Prediction Model for ICU Data from the eICU Database
 
